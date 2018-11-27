@@ -8,7 +8,7 @@ go:
 
 env:
     global:
-        - BUCKET=https://s3.eu-west-2.amazonaws.com/praneeth2k3-mgo
+        - BUCKET=https://s3.eu-west-2.amazonaws.com/globalsign-mgo
         - FASTDL=https://fastdl.mongodb.org/linux
     matrix:
         - MONGODB=x86_64-ubuntu1404-3.0.15
